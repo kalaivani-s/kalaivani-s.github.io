@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Kalaivani Sundararajan</title>
+    <link>https://kalaivani-s.github.io/tag/machine-learning/</link>
+      <atom:link href="https://kalaivani-s.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 11:44:32 -0700</lastBuildDate>
+    <image>
+      <url>https://kalaivani-s.github.io/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://kalaivani-s.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Actigraphy-based sleep classification</title>
+      <link>https://kalaivani-s.github.io/project/sleep-classification/</link>
+      <pubDate>Tue, 30 Jun 2020 11:44:32 -0700</pubDate>
+      <guid>https://kalaivani-s.github.io/project/sleep-classification/</guid>
+      <description>&lt;p&gt;Test test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

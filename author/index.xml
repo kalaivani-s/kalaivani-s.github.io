@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalaivani Sundararajan</title>
+    <link>https://kalaivani-s.github.io/author/</link>
+      <atom:link href="https://kalaivani-s.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kalaivani Sundararajan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://kalaivani-s.github.io/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_512x512_fill_lanczos_center_2.png</url>
+      <title>Kalaivani Sundararajan</title>
+      <link>https://kalaivani-s.github.io/author/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-domain | Kalaivani Sundararajan</title>
+    <link>https://kalaivani-s.github.io/tag/cross-domain/</link>
+      <atom:link href="https://kalaivani-s.github.io/tag/cross-domain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cross-domain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kalaivani-s.github.io/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_512x512_fill_lanczos_center_2.png</url>
+      <title>Cross-domain</title>
+      <link>https://kalaivani-s.github.io/tag/cross-domain/</link>
+    </image>
+    
+    <item>
+      <title>What represents &#39;style&#39; in authorship attribution?</title>
+      <link>https://kalaivani-s.github.io/publication/coling2018_style/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://kalaivani-s.github.io/publication/coling2018_style/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

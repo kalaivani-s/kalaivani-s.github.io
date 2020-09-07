@@ -1,0 +1,18 @@
+{
+  "name": "Kalaivani Sundararajan",
+  "short_name": "Kalaivani Sundararajan",
+  "lang": "en-us",
+  "theme_color": "#f05457",
+  "background_color": "#f05457",
+  "icons": [{
+    "src": "/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Periocular recognition | Kalaivani Sundararajan</title>
+    <link>https://kalaivani-s.github.io/tag/periocular-recognition/</link>
+      <atom:link href="https://kalaivani-s.github.io/tag/periocular-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Periocular recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kalaivani-s.github.io/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_512x512_fill_lanczos_center_2.png</url>
+      <title>Periocular recognition</title>
+      <link>https://kalaivani-s.github.io/tag/periocular-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Periocular-based soft biometric classification</title>
+      <link>https://kalaivani-s.github.io/publication/iet2017_periocular/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://kalaivani-s.github.io/publication/iet2017_periocular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

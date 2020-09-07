@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tempestt Neal | Kalaivani Sundararajan</title>
+    <link>https://kalaivani-s.github.io/author/tempestt-neal/</link>
+      <atom:link href="https://kalaivani-s.github.io/author/tempestt-neal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tempestt Neal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kalaivani-s.github.io/images/icon_huc2b05eff2a36ccce3c7c12674cc6c57e_118396_512x512_fill_lanczos_center_2.png</url>
+      <title>Tempestt Neal</title>
+      <link>https://kalaivani-s.github.io/author/tempestt-neal/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Linguistic Style as a Cognitive Biometric for Continuous Verification</title>
+      <link>https://kalaivani-s.github.io/publication/icb2018_verification/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://kalaivani-s.github.io/publication/icb2018_verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style Signatures to Combat Biometric Menagerie in Stylometry</title>
+      <link>https://kalaivani-s.github.io/publication/icb2018_menagerie/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://kalaivani-s.github.io/publication/icb2018_menagerie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surveying stylometry techniques and applications</title>
+      <link>https://kalaivani-s.github.io/publication/csur2018_stylometry/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kalaivani-s.github.io/publication/csur2018_stylometry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
